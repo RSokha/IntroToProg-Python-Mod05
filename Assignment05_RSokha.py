@@ -2,8 +2,8 @@
 # Title: Assignment05
 # Desc: This assignment demonstrates using dictionaries, files, and exception handling
 # Change Log: (Who, When, What)
-#   RRoot,1/1/2030,Created Script
-#   <Your Name Here>,<Date>, <Activity>
+#   RSokha,1/1/2030,Created Script
+#   <RSokha>,<11/18/2023>, <Advanced Collections & Error Handling>
 # ------------------------------------------------------------------------------------------ #
 from typing import TextIO
 
