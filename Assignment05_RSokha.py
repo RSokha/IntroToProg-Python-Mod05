@@ -5,7 +5,6 @@
 #   RSokha,1/1/2030,Created Script
 #   <RSokha>,<11/18/2023>, <Advanced Collections & Error Handling>
 # ------------------------------------------------------------------------------------------ #
-from typing import TextIO
 
 # Define the Data Constants
 MENU: str = '''
